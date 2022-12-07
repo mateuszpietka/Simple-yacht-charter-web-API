@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YachtCharterWebApp", "YachtCharterWebApp\YachtCharterWebApp.csproj", "{9ACA3B16-7167-48D9-9F70-F52820AEF772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YachtCharterWebApp.Application", "YachtCharterWebApp.Application\YachtCharterWebApp.Application.csproj", "{E0260335-F865-4240-9C52-1ADF8BC2AFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YachtCharterWebApp.Infrastructure", "YachtCharterWebApp.Infrastructure\YachtCharterWebApp.Infrastructure.csproj", "{F20BD28D-32E8-4952-ACB1-F8D0CC356090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YachtCharterWebApp.Core", "YachtCharterWebApp.Core\YachtCharterWebApp.Core.csproj", "{8C1345BB-FF15-47A4-AF01-ECC20FB8AC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACA3B16-7167-48D9-9F70-F52820AEF772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACA3B16-7167-48D9-9F70-F52820AEF772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACA3B16-7167-48D9-9F70-F52820AEF772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACA3B16-7167-48D9-9F70-F52820AEF772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0260335-F865-4240-9C52-1ADF8BC2AFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0260335-F865-4240-9C52-1ADF8BC2AFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0260335-F865-4240-9C52-1ADF8BC2AFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0260335-F865-4240-9C52-1ADF8BC2AFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20BD28D-32E8-4952-ACB1-F8D0CC356090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20BD28D-32E8-4952-ACB1-F8D0CC356090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20BD28D-32E8-4952-ACB1-F8D0CC356090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20BD28D-32E8-4952-ACB1-F8D0CC356090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C1345BB-FF15-47A4-AF01-ECC20FB8AC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1345BB-FF15-47A4-AF01-ECC20FB8AC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1345BB-FF15-47A4-AF01-ECC20FB8AC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1345BB-FF15-47A4-AF01-ECC20FB8AC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {242B3E62-6FD3-4C36-B906-E46E126CCB8F}
+	EndGlobalSection
+EndGlobal
